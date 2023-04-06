@@ -1,2 +1,2 @@
-# Snezhana
-Practica1
+# Myproject
+Индивидуальный проект по теме: ...
