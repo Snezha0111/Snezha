@@ -1,2 +1,2 @@
-# Snezha
+# Snezhana
 Practica1
